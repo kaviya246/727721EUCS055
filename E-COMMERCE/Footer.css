@@ -1,0 +1,22 @@
+.footer {
+    background-color: #ffffff;
+    padding: 20px;
+    /* position:absolute; */
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .footer-logo img {
+    max-width: 100px;
+    height: auto;
+  }
+  
+  .footer-info {
+    text-align: left;
+  }
+  
